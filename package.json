@@ -1,0 +1,9 @@
+{
+  "name": "translate",
+  "description": "Translate an english string table into a debug file converted with psuedo localization.",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "pseudoloc": "^1.1.0"
+  }
+}
