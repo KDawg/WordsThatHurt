@@ -2,14 +2,16 @@
 One Time Setup
 =================
 
-is `npm install` bringing down the single dependency. This utility
+Begin by executing `npm install` bringing down the single dependency. This utility
 uses the `pseudoloc` module. Read its [repository](https://github.com/bunkat/pseudoloc)
 if you want to learn more about it.
 
 Example Using This Tool
 =======================
 
-./translate.js en.json
+This is a CLI and you run it inside Terminal.
+
+`./translate.js en.json`
 
 The idea is that you have everything that your app says to your users inside
 a string table. It's a simple data structure accumulating a series of key-value
